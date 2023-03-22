@@ -1,10 +1,21 @@
-Memory Game
-Technology : HTML,CSS, Javascript
 
-Players will be shown a collection of cards, face down, and can click on a card to reveal what’s underneath.
+# Memory Card Game
 
-After clicking on two cards, the game should check to see whether they match. If they do, they will remain facing up.
+Classic Memory Game that allows player to test and improve their memory skills. 
 
-If not, the cards should remain displayed to the player for one second, and then flip back down.
+## Tech Stack
 
-The goal of the game is to match up all the pairs.
+HTML, CSS, Javascript, Bootstrap
+
+## How to Play
+1. Open the game on your web browser then click START!
+2. Click on any card to reveal the GIF underneath it.
+3. Click on another card to reveal the GIF underneath it. 
+4. If the two cards match, they will remain facing up.
+5. If the two cards do not match, they will flip back down, and you will have to try again.
+6. Keep playing until you match all the pairs of cards.
+
+## Demo
+<p align="center">
+  <img src="https://github.com/xieb3cky/Memory-Card-Game/blob/master/demo/home.gif" alt="animated" />
+</p>

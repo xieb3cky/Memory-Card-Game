@@ -52,4 +52,4 @@ To clone this project to your local machine, follow these steps:
 4. Once the cloning process is complete, navigate into the project directory.
 5. Open the index.html file in your web browser to play the game.
 
-That's it! Now you can play the game on your local machine and make any changes you want. If you want to make contributions to the project, make sure to fork the repository first and submit a pull request with your changes.
+That's it! Now you can play the game on your local machine and make any changes you want.
